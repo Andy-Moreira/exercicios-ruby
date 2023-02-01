@@ -9,7 +9,7 @@ dinheiro_recebido = gets.chomp.to_f
 
 total = qtd_comprada * preco
 
-if (dinheiro_recebido >= total)
+if dinheiro_recebido >= total
   troco = dinheiro_recebido - total
   print "\nTroco = R$  ", troco
 
