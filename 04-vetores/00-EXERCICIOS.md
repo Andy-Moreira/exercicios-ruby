@@ -308,7 +308,6 @@ MENOR ALTURA                   = 1.54
 MAIOR ALTURA                   = 1.83
 NÚMERO DE HOMENS               = 2
 MÉDIA DAS ALTURAS DAS MULHERES = 1.69
-
 ```
 
 ---
@@ -354,7 +353,6 @@ Altura média: 1.69
 Pessoas com menos de 16 anos: 40%
   - João
   - Teresa
-
 ```
 
 ---
@@ -406,5 +404,4 @@ Lucro acima de 20%:     1
 Valor total de compra:  30.00
 Valores total de venda: 33.50
 Lucro total:            3.50
-
 ```
