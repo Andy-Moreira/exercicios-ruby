@@ -10,6 +10,7 @@ numbers[i] = gets.chomp.to_f
 end
 
 puts
-puts "VALORES: #{numbers.join} "
+puts "VALORES: #{numbers.join(" ")} "
 puts "SOMA: #{numbers.sum}"
 puts "MEDIA: #{numbers.sum / numbers.size}"
+puts
